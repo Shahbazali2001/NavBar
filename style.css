@@ -37,10 +37,30 @@
     background-color: aliceblue;
     display: flex;
     align-items: center;
-    
- }
+    justify-content: space-between;
+}
+
  .logo {
     font-size:x-large;
     font-family: "Roboto", sans-serif;
     margin-left: 5px;
  }  
+
+ .nav-links ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    
+    
+ }
+
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    padding: 10px;
+}
+
+    
