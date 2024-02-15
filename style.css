@@ -18,6 +18,16 @@
    align-items: center;
 }
 
+
+.nav-1 p {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+
+
+
 .nav-2{
     height: 60px;
     width: 100%;
