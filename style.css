@@ -60,7 +60,17 @@
     color: black;
     font-family: "Roboto", sans-serif;
     font-size: 15px;
-    padding: 10px;
+    padding: 15px;
+}
+.nav-links{
+    display: flex;
+    align-items: center;
 }
 
+.get-started{
+    margin-right: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px 5px 5px 5px;
+}
     
