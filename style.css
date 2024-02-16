@@ -73,4 +73,24 @@
     padding: 5px;
     border-radius: 5px 5px 5px 5px;
 }
+
+.hero-container{
+    width: 100%;
+    height: 500px;
+    background-color: aliceblue !important;
+    margin-top: 10px;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+}
+.hero-img-1{
+    padding-top: 300px;
+    font-size: 140px;
+    margin-left: -15px;
+}
+.hero-title{ 
+    
+    font-family: "Roboto Slab", serif;
+}
     
