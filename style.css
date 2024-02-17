@@ -26,8 +26,11 @@
 }
 
 .social-links {
-
     margin-right: 5px;
+}
+
+.social-links a{
+    color: black;
 }
 
 
