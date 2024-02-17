@@ -5,7 +5,7 @@ This is a simple navigation bar that can be used in any project. Very simple but
 <br>
 Programming Langauges: HTML5 and CSS3
 <br>
-Fonts: Google Fonts (https://fonts.google.com/specimen/Roboto)
+Fonts : Google Fonts (https://fonts.google.com/specimen/Roboto)
 <br>
 Social Icons : Font Awesome (https://fontawesome.com/)
 
