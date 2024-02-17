@@ -68,6 +68,7 @@
 }
 
 .get-started{
+    font-family: "Roboto Slab" ;
     margin-right: 5px;
     border: 1px solid black;
     padding: 5px;
@@ -82,15 +83,4 @@
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
-
 }
-.hero-img-1{
-    padding-top: 300px;
-    font-size: 140px;
-    margin-left: -15px;
-}
-.hero-title{ 
-    
-    font-family: "Roboto Slab", serif;
-}
-    
